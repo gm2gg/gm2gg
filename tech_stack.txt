@@ -1,0 +1,20 @@
+-- Programming Languages: --
+C - System language
+C++ - Object-oriented
+C# - Cool Microsoft language
+Python - scripting & data science
+Kotlin - Android
+JavaScript - web frontend & backend
+Java - cross-platform
+Lua - lightweight scripting language
+HTML - web markup language
+SQL - database query language
+
+-- Software: --
+PyCharm - Python IDE
+Visual Studio Code - just code editor
+Microsoft Visual Studio - full-featured IDE
+Android Studio - Android development IDE
+IntelliJ IDEA - Java
+Blender 4.0 - 3D modeling & animation
+Unity - game engine
