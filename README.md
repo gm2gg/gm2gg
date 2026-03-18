@@ -1,6 +1,6 @@
 <h1 align="center">gm2gg</h1>
 
-###
+<hr>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=cs,cpp,c,py,kotlin,js,java,lua,html,sql" height="40" />
