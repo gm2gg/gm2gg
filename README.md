@@ -6,7 +6,7 @@
   <img src="https://skillicons.dev/icons?i=cs,cpp,c,py,kotlin,js,java,lua,html,sql" height="40" />
 </div>
 
-<hr>
+###
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" />
@@ -16,7 +16,7 @@
   <img src="https://skillicons.dev/icons?i=vscode,visualstudio,androidstudio,blender,unity" height="40" />
 </div>
 
-###
+<hr>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=gm2gg&show_icons=true&theme=tokyonight&hide_border=true" />
